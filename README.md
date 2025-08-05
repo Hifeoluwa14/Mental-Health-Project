@@ -21,7 +21,7 @@ This project involves data cleaning, preprocessing, and exploratory analysis of 
 
 ## Key Findings
 
-Depression Statistics: 
+**Depression Statistics**: 
   * Total: 140,700 individuals
   * Depressed individual: 25,567(18.2%)
     
@@ -30,32 +30,35 @@ It was observed that depressed individuals showed higher work/academic pressure,
 <img width="825" height="40" alt="Depressed" src="https://github.com/user-attachments/assets/8892f759-95ce-4986-aa39-a6ea85c7c805" />
 
 
-Professions:
+
+**Professions**:
   * Students: 16,336 depressed, about 60% of all students
   * Working Professionals: 9,231 depressed, about 8% of all professionals.
     
 <img width="1344" height="993" alt="Picture1" src="https://github.com/user-attachments/assets/52a785ae-6aa7-4551-a2a3-49f85222ee93" />
 
+
+
 Students also reported more suicidal thoughts than working professionals.
 <img width="395" height="102" alt="Suicidal thoughts" src="https://github.com/user-attachments/assets/0c79b301-3711-47b1-a8ec-c9f6b968ee1b" />
 
-CGPA & Depression:
-Most depressed students had:
-Second Class Upper: 5,534 students
-
-Third Class: Least number of depressed individuals (3,003 students)
+**CGPA & Depression**:
+ * First Class: 3,587 students 
+ * Second Class Upper: 5,534 students
+ * Second Class Lower: 4,212 students
+ * Third Class: 3,003 students
 <img width="1310" height="993" alt="Picture2" src="https://github.com/user-attachments/assets/389525db-8647-467b-9983-4abc1b5fced8" />
 
 
 
-Education Level:
+**Education Level**:
 Class 12 students make up ~30% of all depressed students (7,549 students)
 Next highest group: B.Ed students with 1,505 (~6%)
 <img width="2763" height="1659" alt="Picture3" src="https://github.com/user-attachments/assets/4987aff5-28d6-4831-bd0c-578f547a6bb0" />
 
 
 
-Gender and Depression:
+**Gender and Depression**:
 Females: 17.82% depressed
 Males: 18.46% depressed
 <img width="389" height="104" alt="Gender Depression" src="https://github.com/user-attachments/assets/d8910b7d-bfe7-46d7-901e-cc130fbe6ab7" />
@@ -63,21 +66,13 @@ Males: 18.46% depressed
 Gender showed little variation in depression rates.
 
 
-Age and Depression:
+**Age and Depression**:
 
 Teenagers: ~68% depressed
-
 Young Adults: ~36% depressed
-
 Age 40–65: Only 1.40% depressed
 <img width="391" height="146" alt="Age Depression" src="https://github.com/user-attachments/assets/ecb77665-a405-47b8-95b6-29babd7e04a1" />
 
-
-Depression is significantly more prevalent among younger individuals.
-
-
-
----
 
 📁 Tools Used
 
@@ -85,7 +80,7 @@ Microsoft Excel
 (Data cleaning, transformation, pivot charts, conditional formatting, and data visualization)
 
 
-💡 Conclusion
+## Conclusion
 
 This project highlights the relationship between depression and factors like profession, academic performance, stress, satisfaction levels, age, and gender. The findings suggest that students—particularly teenagers and those with high academic pressure—are at greater risk for depression compared to working professionals.
 
