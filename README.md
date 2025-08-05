@@ -8,7 +8,7 @@ This project involves data cleaning, preprocessing, and exploratory analysis of 
   * Profession, Academic Pressure, Work Pressure, CGPA, Study Satisfaction, Work Satisfaction, Dietary Habits, Degree, Financial Stress.
   * Replaced null values in Financial Stress with the column's average.
   * Filled null values in Profession based on Working Professional or Student classification.
-  * For CGPA: Students: Filled with the average CGPA and Non-students: Marked as Not a Student.
+  * For CGPA: Students Filled with the average CGPA and Non-students Marked as Not a Student.
 3. Data Quality Improvements:
   * Checked for and found no duplicate rows.
   * Cleaned and standardized Dietary Habits column. Unclear entries marked as Unknown Habit.
@@ -60,9 +60,9 @@ Next highest group: B.Ed students with 1,505 (~6%)<br>
 
 <img width="389" height="104" alt="Gender Depression" src="https://github.com/user-attachments/assets/d8910b7d-bfe7-46d7-901e-cc130fbe6ab7" /><br><br>
 **Age and Depression**:
- * Teenagers: ~68% depressed
- * Young Adults: ~36% depressed
- * Age 40–65: Only 1.40% depressed
+ * Teenagers: 67.83% of 6,555 are depressed
+ * Young Adults: 35.33% of 56,727 are depressed
+ * Age 40–65: Only 1.40% of 77,418 are depressed
 
 <img width="391" height="146" alt="Age Depression" src="https://github.com/user-attachments/assets/ecb77665-a405-47b8-95b6-29babd7e04a1" /><br><br>
 
