@@ -35,11 +35,13 @@ It was observed that depressed individuals showed higher work/academic pressure,
   * Students: 16,336 depressed, about 60% of all students
   * Working Professionals: 9,231 depressed, about 8% of all professionals.
     
-<img width="1344" height="993" alt="Picture1" src="https://github.com/user-attachments/assets/52a785ae-6aa7-4551-a2a3-49f85222ee93" />
+<img width="1344" height="993" alt="Picture1" src="https://github.com/user-attachments/assets/d0e71b6f-149a-4fc3-b3b3-7e973ca73608" />
+
 
 
 
 Students also reported more suicidal thoughts than working professionals.
+
 <img width="395" height="102" alt="Suicidal thoughts" src="https://github.com/user-attachments/assets/0c79b301-3711-47b1-a8ec-c9f6b968ee1b" />
 
 **CGPA & Depression**:
@@ -61,6 +63,7 @@ Next highest group: B.Ed students with 1,505 (~6%)
 **Gender and Depression**:
 Females: 17.82% depressed
 Males: 18.46% depressed
+
 <img width="389" height="104" alt="Gender Depression" src="https://github.com/user-attachments/assets/d8910b7d-bfe7-46d7-901e-cc130fbe6ab7" />
 
 Gender showed little variation in depression rates.
@@ -71,6 +74,7 @@ Gender showed little variation in depression rates.
 Teenagers: ~68% depressed
 Young Adults: ~36% depressed
 Age 40–65: Only 1.40% depressed
+
 <img width="391" height="146" alt="Age Depression" src="https://github.com/user-attachments/assets/ecb77665-a405-47b8-95b6-29babd7e04a1" />
 
 
