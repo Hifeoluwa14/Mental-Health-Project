@@ -71,7 +71,7 @@ Next highest group: B.Ed students with 1,505 (~6%)<br>
 
 ## Tools Used
 Microsoft Excel
-(Data cleaning, transformation, pivot charts, conditional formatting, and data visualization)<br><br>
+(Data cleaning, transformation, pivot tables, pivot charts, and data visualization)<br><br>
 ## Conclusion
 * Students shows 7.5x higher depression rates than working professionals
 * Teenagers are nore vulnerable to depression.
