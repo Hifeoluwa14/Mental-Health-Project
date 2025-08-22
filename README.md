@@ -53,7 +53,9 @@ Students also reported more suicidal thoughts than working professionals.<br>
 **Education Level**:<br>
 Class 12 students make up ~30% of all depressed students (7,549 students)<br>
 Next highest group: B.Ed students with 1,505 (~6%)<br>
-<img width="2763" height="1659" alt="Picture3" src="https://github.com/user-attachments/assets/4987aff5-28d6-4831-bd0c-578f547a6bb0" /><br><br>
+<img width="2763" height="1659" alt="Picture1" src="https://github.com/user-attachments/assets/90c5e221-eb94-411a-9f37-dca616f1fb72" /><br><br>
+
+
 **Gender and Depression**:
  * Females: 17.82% depressed
  * Males: 18.46% depressed
