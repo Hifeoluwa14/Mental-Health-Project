@@ -34,9 +34,10 @@ It was observed that depressed individuals showed higher work/academic pressure,
 
 **Professions**:
   * Students: 16,336 depressed, about 60% of all students
-  * Working Professionals: 9,231 depressed, about 8% of all professionals.
+  * Working Professionals: 9,231 depressed, about 8% of all professionals.<br><br>
     
-<img width="1344" height="993" alt="Picture1" src="https://github.com/user-attachments/assets/d0e71b6f-149a-4fc3-b3b3-7e973ca73608" />
+<img width="1344" height="993" alt="Picture1" src="https://github.com/user-attachments/assets/7bd8b653-ea34-430f-826a-43b9e9ecff52" />
+
 
 
 Students also reported more suicidal thoughts than working professionals.<br>
@@ -48,12 +49,12 @@ Students also reported more suicidal thoughts than working professionals.<br>
  * Second Class Upper: 5,534 students
  * Second Class Lower: 4,212 students
  * Third Class: 3,003 students
-<img width="1310" height="993" alt="Picture2" src="https://github.com/user-attachments/assets/389525db-8647-467b-9983-4abc1b5fced8" /><br><br>
+<img width="1307" height="990" alt="Picture2" src="https://github.com/user-attachments/assets/9efe1f1e-a82d-4ddb-887d-729fa284601a" /><br><br>
 
 **Education Level**:<br>
-Class 12 students make up ~30% of all depressed students (7,549 students)<br>
-Next highest group: B.Ed students with 1,505 (~6%)<br>
-<img width="2763" height="1659" alt="Picture2" src="https://github.com/user-attachments/assets/e6e858ac-c0a8-4034-ac7c-edbcdd3732a4" /><br><br>
+Class 12 students make up about 30%(4,304) of all depressed students (16,336 students)<br>
+Next highest group: B.Ed students with 1,021 (6.25%)<br>
+<img width="2716" height="1612" alt="Picture3" src="https://github.com/user-attachments/assets/52ab357c-5ded-4380-88a5-b5d17dee5505" /><br><br>
 
 
 **Gender and Depression**:
