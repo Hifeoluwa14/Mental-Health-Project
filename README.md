@@ -70,6 +70,9 @@ Next highest group: B.Ed students with 1,021 (6.25%)<br>
 <img width="391" height="146" alt="Age Depression" src="https://github.com/user-attachments/assets/ecb77665-a405-47b8-95b6-29babd7e04a1" /><br><br>
 
 
+## Dashboard
+<img width="1307" height="990" alt="Dashboard" src="https://github.com/user-attachments/assets/c56a8ada-49b8-4808-9388-042055afaf17" />
+
 ## Tools Used
 Microsoft Excel
 (Data cleaning, transformation, pivot tables, pivot charts, and data visualization)<br><br>
